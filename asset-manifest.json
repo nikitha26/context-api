@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/context-api/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/context-api/static/js/main.0fff098b.chunk.js",
+    "main.js.map": "/context-api/static/js/main.0fff098b.chunk.js.map",
+    "runtime-main.js": "/context-api/static/js/runtime-main.5f1fd43d.js",
+    "runtime-main.js.map": "/context-api/static/js/runtime-main.5f1fd43d.js.map",
+    "static/js/2.e5e24af3.chunk.js": "/context-api/static/js/2.e5e24af3.chunk.js",
+    "static/js/2.e5e24af3.chunk.js.map": "/context-api/static/js/2.e5e24af3.chunk.js.map",
+    "static/js/3.dc7129dd.chunk.js": "/context-api/static/js/3.dc7129dd.chunk.js",
+    "static/js/3.dc7129dd.chunk.js.map": "/context-api/static/js/3.dc7129dd.chunk.js.map",
+    "index.html": "/context-api/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/context-api/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e5e24af3.chunk.js.LICENSE.txt": "/context-api/static/js/2.e5e24af3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f1fd43d.js",
+    "static/js/2.e5e24af3.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.0fff098b.chunk.js"
+  ]
+}
