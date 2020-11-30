@@ -1,6 +1,5 @@
 import React from "react";
 import ComponentC from "./ComponentC";
-import ComponentE from "./ComponentE"
 import {UserProvider} from "./UserContext";
 
 function App() {
