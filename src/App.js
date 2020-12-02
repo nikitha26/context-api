@@ -1,12 +1,15 @@
 import React from "react";
-import ComponentC from "./ComponentC";
+import ComponentA from "./ComponentA";
+import ComponentB from "./ComponentB";
+//import ComponentC from "./ComponentC";
 import {UserProvider} from "./UserContext";
 
 function App() {
      return(
        <div>
-          <UserProvider value="Puppy">
-            <ComponentC/>
+         <ComponentA name="Hiii"/>
+          <UserProvider value="John">
+            <ComponentB/>
           </UserProvider> 
          </div>
      )
